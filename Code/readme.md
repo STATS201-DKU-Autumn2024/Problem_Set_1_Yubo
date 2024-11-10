@@ -19,7 +19,7 @@ The EDA covers the following steps:
    - Visualized the distribution of the target variable, `label`, which indicates if a review is machine-generated (1) or human (0).
    - The distribution graph for `label` is shown below:
 
-   ![Label Distribution](label_distribution.jpg)
+   ![Label Distribution](1551731220522_.pic.jpg)
 
 5. **Readability Metrics Distribution**:
    - Plotted histograms for key readability metrics, such as the Automated Readability Index and Flesch Reading Ease, to analyze their distributions.
